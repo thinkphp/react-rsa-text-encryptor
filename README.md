@@ -39,4 +39,4 @@ npm start
 This project is **open-source** under the MIT License.
 
 ## ✨ Author
-Developed by **Adrian Statesci**. Reach out on [LinkedIn](https://linkedin.com/in/statescuadrian)!
+Developed by **Adrian Statescu**. Reach out on [LinkedIn](https://linkedin.com/in/statescuadrian)!
