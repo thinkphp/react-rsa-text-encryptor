@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rsa-text-encryptor/static/css/main.41682e5c.css",
+    "main.js": "/rsa-text-encryptor/static/js/main.4288c8de.js",
+    "index.html": "/rsa-text-encryptor/index.html",
+    "main.41682e5c.css.map": "/rsa-text-encryptor/static/css/main.41682e5c.css.map",
+    "main.4288c8de.js.map": "/rsa-text-encryptor/static/js/main.4288c8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41682e5c.css",
+    "static/js/main.4288c8de.js"
+  ]
+}
