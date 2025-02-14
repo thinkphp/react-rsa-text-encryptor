@@ -1,0 +1,68 @@
+/* Fancy styles for the RSA Encryptor */
+.rsa-container {
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: white;
+  padding: 30px;
+  max-width: 600px;
+  margin: auto;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.text-input {
+  width: 90%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  resize: none;
+}
+
+.button-container {
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.encrypt-btn {
+  background: #00c853;
+  color: white;
+  box-shadow: 0 3px 6px rgba(0, 200, 83, 0.3);
+}
+
+.encrypt-btn:hover {
+  background: #00e676;
+}
+
+.decrypt-btn {
+  background: #d50000;
+  color: white;
+  box-shadow: 0 3px 6px rgba(213, 0, 0, 0.3);
+}
+
+.decrypt-btn:hover {
+  background: #ff1744;
+}
+
+.output-text {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+  border-radius: 8px;
+  word-wrap: break-word;
+}
+
